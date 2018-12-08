@@ -1,0 +1,11 @@
+{
+  "name": "Express-Server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/peterjuff/Express-Server.git",
+  "author": "<peterjuffernbruch@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
